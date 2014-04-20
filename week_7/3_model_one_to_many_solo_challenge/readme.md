@@ -17,7 +17,7 @@ In this challenge, you'll take what you know about Twitter's users and tweets to
 Make sure to commit your changes after each release!
 
 ## Release 0: User Fields
-Go to [Twitter](https://twitter.com/) and check out your user profile. Identify the fields Twitter stores for each user in your [my_solution.md](my_solution.md) file.
+Go to [Twitter](https://twitter.com/) and check out your user profile (which you should have created before phase 0). Identify the fields Twitter stores for each user in your [my_solution.md](my_solution.md) file.
 
 ## Release 1: Tweet Fields
 Now look at creating a new tweet. What fields are available? Put the fields you've identified in your [my_solution.md](my_solution.md) file.
