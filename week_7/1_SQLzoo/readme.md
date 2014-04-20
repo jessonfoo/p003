@@ -1,6 +1,6 @@
 [Week 7 Home](../)
 
-U3.W7: SQLZoo for SQL Queries
+# U3.W7: SQLZoo for SQL Queries
 
 ## Learning Competencies
 - Write simple SELECT statements to extract data from one or more fields on a single table using the SELECT, FROM, WHERE, LIMIT, and ORDER BY keywords
