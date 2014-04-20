@@ -32,4 +32,4 @@ Copy your code from stypi into the [our_solution.rb](our_solution.rb) file. Then
 
 ## Release 6: Sync your changes to Github!
 
-## Release 6: Submit [Feedback!] for your pair.(http://socrates.devbootcamp.com/feedback/new)
+## Release 6: Submit [Feedback](http://socrates.devbootcamp.com/feedback/new).
