@@ -19,25 +19,25 @@ Start the first set of exercises "SELECT basics".  Complete this set and complet
 Now you are able to create an account so you can save your quiz results and return to SQLzoo whenever you want.  Choose "local" as your domain.  (NOTE: you need to complete some SQL questions before you can create an account.  
 
 ## Release 2: Complete the following sections along with their quizzes:  
-You may (will probably) want to do some research as you go. [w3schools.com](http://www.w3schools.com/sql/default.asp) is a pretty good reference.
- 
+
 * 1 SELECT basics
 * 2 SELECT from World
 * 3 SELECT from Nobel (the quiz for this section is not mandatory)
 * 5 SUM and COUNT
 * 6 JOIN (#8-13 of the tutorial is **BONUS**!)
 
-You will need to do some research!  Choose your search terminology well.  Honing your research skills are a big part of the challenge.  Are you staying focused in your research?  Are you surveying multiple links instead of choosing just the first one?  Are you saving interesting background info for later reading?  Be conscious of a research methodology that works for you.
+You will need to do some research as you go. The tutorial is more meant to get you to experiment and try queries. It's not really intended to teach. So this is a good time to amp up your researching skills! [w3schools.com](http://www.w3schools.com/sql/default.asp) is a pretty good reference.
 
-## Release 0: BONUS:  Dive into the other sections!  Follow the tutorials and take the quizzes to deepen your SQL skills.
+## Release 3: Save your Quiz Results
+When you are finished, access your quiz results by going to your profile page (link is in the upper right corner). Take a screenshot of the scores and results, rename it to `sqlzoo_quiz.jpg`, and saving it in the [imgs](../imgs) directory in this repository. THEN, add the image (inline using markdown) into your [my_quizzes.md](my_quizzes.md) file in this directory. 
 
-## Release 0: When you are finished, access your quiz results by going to your profile page (link is in the upper right corner), taking a screenshot of the scores and results, uploading the screenshot to imgur.com, and saving the URL to the challenge gist.   *(This is part of the challenge!  How do you create a link in markdown?  How do you take a screenshot of a partial screen? How do you use an image hosting website?)*
+## Release 4: [Reflect](../../references/reflection.md) in the reflection section of your [my_quizzes.md](my_quizzes.md) file. 
 
-## Release 0: Reflect.  Take a moment to choose a concept in SQL that was very confusing at first, but with some practice (and maybe some research) you figured it out.  With your audience as your fellow students, explain this concept.  What made you confused initially?  What clarified the concept?  Is there a technique that you can use in the future when confused?
+## Release 5: [Review](../../references/review.md) 
+2 of your accountability group member's solutions. Make sure to leave them feedback as an issue on their repo! Make sure they have "issues" set up as features. If they don't help them set it up! 
 
-## Release 0: Review.  Look at other solution gists and look at your fellow student's reflections.  Are there any great learning techniques shared?  Any concepts clarified?  Take a moment to comment on other student's insights and thank them for taking the time to share.
-
-## Release 0: Redo your weakest section.  Take 10 minutes to redo the section that was hardest for you.  What can you learn from it being "hard"?
+## Optimize Your Learning: 
+Dive into the other sections!  Follow the tutorials and take the quizzes to deepen your SQL skills.
 
 
 #### Troubleshooting Profile Creation
