@@ -14,7 +14,7 @@ Congratulations!  You have just been hired by Statmaster Solutions Inc!  It is y
 Statmaster is supporting a press conference in 2 hours and needs your program to output the data on-the-fly in a nice format.  You will be expected to fix the SQL calls and finish creating methods to easily generate the desired output.
 
 ## Release 0: Open the Database
-You should have the `congress_poll_results.db` in this challenge directory. Open it up by typing  `sqlite3 congress_poll_results.db` in the correct local directory. To access a database from within ruby code, you need to install the sqlite3 gem.  Run `gem install sqlite3` from the command line. If you have trouble, try googling the error or ask your cohort-mates for help.
+You should have the `congress_poll_results.db` in this challenge directory (It may not show up in the directory structure, but it should be visible in the terminal by typing `ls`. Open it up by typing  `sqlite3 congress_poll_results.db` in the correct local directory. To access a database from within ruby code, you need to install the sqlite3 gem.  Run `gem install sqlite3` from the command line. If you have trouble, try googling the error or ask your cohort-mates for help.
 
 ## Release 1: Poke around the Database
 Take a look at the schemas included.  Type `.schema`.  There should be 3 tables, `congress_members`, `voters`, and `votes`.  Do a couple `select` statements on the congress_members table. (This is where most of the stats will be coming from).
