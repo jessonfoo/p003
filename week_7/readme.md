@@ -13,7 +13,7 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 4. [Intro to SQLite](4_intro_to_SQLite)
 5. [Technical Blog](5_technical_blog.md)
 6. [Cultural Blog](6_cultural_blog.md)
-7. [GPS 3.1](7_gps3.1)
+7. [GPS 3.1](7_gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
 8. [BONUS: Using the SQLite Gem](8_SQLite_gem) 
 
 
