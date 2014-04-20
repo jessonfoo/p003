@@ -6,6 +6,7 @@
 - Create a graphical representation of a simple database
 - Adhere to established naming conventions for DB tables and columns
 - Identify database relationships including one to many, many to many, and one to one
+- Write simple SELECT statements to extract data from one or more fields on a single table using the SELECT, FROM, WHERE, LIMIT, and ORDER BY keywords
 
 
 ## Summary
