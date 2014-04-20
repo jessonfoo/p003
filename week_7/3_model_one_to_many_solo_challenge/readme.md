@@ -11,7 +11,7 @@
 ## Summary
 In this challenge, you'll take what you know about Twitter's users and tweets to create a schema design that models a real-world database. 
 
-**NOTE:** We do not expect or what you to use the API. We want you to look at twitter's interface, identify some fields they collect for all users, then identify the fields used for tweets, and make a schema that shows that information. 
+**NOTE:** We do not expect or want you to use the API. We want you to look at twitter's interface, identify some fields they collect for all users, then identify the fields used for tweets, and make a schema that shows that information. 
 
 Make sure to commit your changes after each release!
 
