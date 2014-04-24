@@ -19,6 +19,7 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 
 
 ## Submitting your work
+**You need to submit your work through on [apply.devbootcamp.com](apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 3 Week 7 Submission" form.**
 
 This week you will be storing your reflections in the challenge files in this repository. 
 - Fork this (phase_0_unit_3) repository by clicking "Fork" at the top right of the page. 
@@ -38,7 +39,6 @@ You will want to run and modify all files from your local repository on your com
 
 When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
-You need to submit your work through a form (to be released) by Sunday at 11:59pm. Expect to submit the links from your repo for each challenge above. 
 
 ## Remember your Unit Goals!
 - Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
