@@ -62,7 +62,7 @@ So that it accepts a name as a String (e.g., "Joseph") and returns the named stu
 
 ## Resources
 - JavaScript: [Object Syntax](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
-- Socrates JavaScript Labs: [Looping](https://socrates.devbootcamp.com/labs/javascript/loops/looping-basics)
+
 
 
 
