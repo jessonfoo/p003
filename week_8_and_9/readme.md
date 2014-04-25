@@ -18,7 +18,7 @@ This is your curriculum for the last two weeks. You'll be required to guide your
 
 
 ## Submitting your work
-**You need to submit your work through on <a href="apply.devbootcamp.com">apply.devbootcamp.com</a> by Sunday at 11:59pm. When you log in, look at your profile page. There will be a "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms.**
+**You need to submit your work through on [apply.devbootcamp.com](https://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There will be a "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms.**
 
 You'll need to fetch changes into your `phase_0_unit_3` repository from DevBootcamp's master repo to get the new curriculum. You'll be syncing your local repo with the repo on github.com.
 
