@@ -11,7 +11,7 @@
 Most of you have been using the GitHub app to make changes on your repo and push them to your remote (on github.com) repository. Most programmers do not use the app, so in this challenge, you will be ditching the app and learning to use git from the command line. 
 
 ## Release 0: Install Git
-[Install git](http://git-scm.com/book/en/Getting-Started-Installing-Git) on your command line if you haven't already. 
+[Install git](https://help.github.com/articles/set-up-git) on your command line if you haven't already. 
 
 ## Release 1: Research
 Read/Watch any of the resources listed below. Really try to get a feel for how Github works. Then make sure you use it throughout weeks 8 and 9. Make sure to learn what a commit is. If you make any mistakes, you can always revert to any commit, so commit often!
