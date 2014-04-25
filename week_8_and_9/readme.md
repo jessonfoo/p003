@@ -9,7 +9,7 @@ You've learned a lot of diverse material in Phase 0, and now you are two weeks a
 2. [HTML/CSS](2_HTML_CSS) 
 3. [JavaScript](3_JavaScript) 
 4. [Ruby](4_Ruby)
-5. [Creative](5_creative)
+5. [SQL](5_SQL)
 6. [Technical Blog](6_technical_blog.md)
 7. [Cultural Blog](7_cultural_blog.md)
 8. [Cohort Bonding](8_cohort_bonding.md) 

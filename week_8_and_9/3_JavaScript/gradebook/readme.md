@@ -1,6 +1,6 @@
-[Week 8 Home](../../)
+[Week 8 and 9 Home](../../)
 
-#U3.W8: A Gradebook from Names and Scores
+#U3.W8-9: A Gradebook from Names and Scores
 
 ## Learning Competencies
 - Define local variables in JavaScript
@@ -54,6 +54,10 @@ A getAverage property to gradebook and assign it the value of a function ...
 
 ## Release 7: Modify `getAverage`
 So that it accepts a name as a String (e.g., "Joseph") and returns the named students average.
+
+## Release 8: [Refactor](../../../references/refactoring.md)
+
+## Release 9: [Reflect](../../../references/reflection.md)
 
 
 ## Resources
