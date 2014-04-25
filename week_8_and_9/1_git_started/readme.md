@@ -33,7 +33,6 @@ Give yourself a little cheatsheet (in order) of commands you'll need to:
 ## Release 6: [Review](../../../references/review.md)
 
 ## Resources
-#### GitHub
 - [Try Git](https://www.codeschool.com/courses/try-git)
 - [VIDEO: How to Use Git and GitHub](https://www.youtube.com/watch?v=tRTckrrCME4&list=PLHPcpp4e3JVrR1OCuUAAWLmWEVKok7zAq)
 - [LifeHacker: How the Heck Do I Use GitHub?](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
