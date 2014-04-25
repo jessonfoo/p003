@@ -38,10 +38,10 @@ The variable `gradebook` and assign it the value of a new object
 ## Release 3: Add property to `gradebook`
 Make each student name in students a property of gradebook and assign each the value of a new object.
 
-## Release 4: testScores
+## Release 4: `testScores`
 Give each student property of gradebook its own testScores property and assign it the value of the respective students scores from scores.
 
-## Release 5: addScore
+## Release 5: `addScore`
 - addScore property to gradebook (assign it the value of a function that accepts name and score arguments)
 - Have it push the score to the value of the testScore property of the gradebook property that matches the value of the name argument.  
 
