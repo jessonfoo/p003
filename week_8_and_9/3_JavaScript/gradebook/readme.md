@@ -49,7 +49,7 @@ For example,
 ```javascript
     gradebook.addScore("Susan", 80) // would push the score 80 into the value of gradebook.Susan.testScores.
 ```
-## Release 6: getAverage
+## Release 6: `getAverage`
 A getAverage property to gradebook and assign it the value of a function ...
 
 ## Release 7: Modify `getAverage`
