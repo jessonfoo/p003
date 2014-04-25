@@ -30,6 +30,7 @@ super_fizzbuzz([1,2,5])  # => [1, 2, "Buzz"]
 super_fizzbuzz([1,2,15]) # => [1, 2, "FizzBuzz"]
 
 super_fizzbuzz([30, 9, 20, 1]) # => ["FizzBuzz", "Fizz", "Buzz", 1]
+```
 
 ## Release 0: Run the [Tests](fizz_buzz_spec.rb)
 
