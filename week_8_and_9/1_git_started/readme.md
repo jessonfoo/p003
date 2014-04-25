@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Use git commands in the terminal
-- Fetch changes to a fork from the original master repository
+- Fetch changes from a forked repository
 - Push and pull your own changes between your local and remote repositories
 
 ## Summary:
