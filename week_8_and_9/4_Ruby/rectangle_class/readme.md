@@ -13,7 +13,7 @@ In this challenge, you will want to create four instance methodes for a rectangl
 - `Rectangle#area`, which returns the area of the rectangle
 - `Rectangle#perimeter`, which returns the perimeter of the rectangle
 - `Rectangle#diagonal`, which returns the length of the rectangle's diagonal as a `Float`
-- `Rectangle#square?`
+- `Rectangle#square?`, which returns a boolean
 
 
 ## Release 0: Run the [Tests](rectangle_spec.rb)
