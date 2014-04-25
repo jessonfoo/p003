@@ -16,7 +16,7 @@ jQuery is a feature-rich JavaScript library. It makes things like HTML document 
 
 ## Releases
 ### Release 0: Link your code
-The challenge gist contains two files, `jquery_example.html` and `jquery_example.js`.  Open both of these in Sublime for editing, and then open the  `jquery_example.html`  file in a Chrome Browser for viewing.  You should see a very simple web page.  If you open the Chrome DevTools Console tab (right click on the page and choose Inspect Element) you should see an error that looks like: 
+This challenge directory contains two files, `jquery_example.html` and `jquery_example.js`.  Open both of these in Sublime for editing, and then open the  `jquery_example.html`  file in a Chrome Browser for viewing.  You should see a very simple web page.  If you open the Chrome DevTools Console tab (right click on the page and choose Inspect Element) you should see an error that looks like: 
 
 ```
 Uncaught ReferenceError: $ is not defined 
