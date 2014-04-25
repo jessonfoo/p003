@@ -15,8 +15,7 @@ Copy your blog tempate into a new HTML file named `week9_cultural.html`.
 
 ## Release 1: 
 
-### Option 1
-Revisit EQ: Feedback 
+### Option 1: Revisit EQ: Feedback 
 
 Revisit [EQ & Feedback](http://vimeo.com/76762772) and read:
 - [How to Give Feedback that Works](http://www.forbes.com/sites/prettyyoungprofessional/2011/05/16/how-to-give-feedback-that-works/)
@@ -28,8 +27,7 @@ Consider the feedback you've given and received on Feedbackinator. When was it m
 
 When you arrive at DBC, you'll be expected to give live feedback to your peers, so consider some strategies for giving and receiving live feedback. 
 
-### Option 2
-Your thinking style
+### Option 2: Your thinking style
 
 Remember your [Gregorc Thinking Style](http://web.cortland.edu/andersmd/learning/gregorc.htm) from your pre-Phase 0 work? If you can't remember what you are, retake the [personal thinking style](http://www.thelearningweb.net/personalthink.html) quiz. 
 
