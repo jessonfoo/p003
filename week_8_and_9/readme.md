@@ -13,7 +13,7 @@ This is your curriculum for the last two weeks. You'll be required to guide your
 4. [Ruby](4_Ruby) *select 2 per week*
 5. [SQL](5_SQL) *select 1 per week*
 6. [Technical Blog](6_technical_blog.md)
-7. [Cultural Blog](7_cultural_blog) *one per week*
+7. [Cultural Blog](7_cultural_blogs) *one per week*
 8. [Cohort Bonding](8_cohort_bonding.md) *For week 9*
 
 
