@@ -20,12 +20,12 @@ This is your curriculum for the last two weeks. You'll be required to guide your
 ## Submitting your work
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There will be a "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms.**
 
+## Sync DBC's Changes
+####It's time to sync changes from DevBootcamp's phase_0_unit_3 master repo.
 You'll need to fetch changes into your `phase_0_unit_3` repository from DevBootcamp's master repo to get the new curriculum. You'll be syncing your local repo with the repo on github.com.
 
-- If you are doing this from the Github Desktop App, follow [these](http://stackoverflow.com/questions/11394349/upstream-pulls-with-the-github-desktop-client
-)
-directions. 
-- If you are doing it from the command line, follow [these](https://help.github.com/articles/syncing-a-fork) directions.
+Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching_changes.md)!
+Modify them for unit 3.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the various challenge directories and submit your solutions as directed. 
 
