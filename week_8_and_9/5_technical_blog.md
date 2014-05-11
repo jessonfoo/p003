@@ -1,6 +1,6 @@
 [Week 8 and 9 Home](../)
 
-# U3.W8-9: Technical Blog 
+# U3.W8: Technical Blog 
 
 ## Learning Competencies
 - Research a topic of interest
