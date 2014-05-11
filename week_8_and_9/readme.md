@@ -7,14 +7,13 @@ This is your curriculum for the last two weeks. You'll be required to guide your
 
 
 ## Challenges
-1. ["Git" Started](1_git_started) *for Week 8*
-2. [HTML/CSS](2_HTML_CSS) *select 1 per week*
-3. [JavaScript](3_JavaScript) *select 2 per week*
-4. [Ruby](4_Ruby) *select 2 per week*
-5. [SQL](5_SQL) *select 1 per week*
-6. [Technical Blog](6_technical_blog.md)
-7. [Cultural Blog](7_cultural_blogs) *one per week*
-8. [Cohort Bonding](8_cohort_bonding.md) *For week 9*
+1. [HTML/CSS](1_HTML_CSS) *select 1 per week*
+2. [JavaScript](2_JavaScript) *select 2 per week*
+3. [Ruby](3_Ruby) *select 2 per week*
+4. [SQL](4_SQL) *select 1 per week*
+5. [Technical Blog](5_technical_blog.md)
+6. [Cultural Blog](6_cultural_blogs) *one per week*
+7. [Cohort Bonding](7_cohort_bonding.md) *For week 9*
 
 
 ## Submitting your work
