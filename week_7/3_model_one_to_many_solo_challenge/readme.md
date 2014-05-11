@@ -36,7 +36,7 @@ Now go to [SQL Designer](http://socrates.devbootcamp.com/sql) and create your ta
 
 Put your SQL Statements in the appropriate section in your [my_solution.md](my_solution.md) file.
 
-## Release 5: [Reflect](../../references/reflection.md) 
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) 
 ...in the reflection section of your [my_solution.md](my_solution.md) file. 
 
 

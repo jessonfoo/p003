@@ -43,11 +43,11 @@ For this challenge, you will want to be familiar with `for ... in ...` [looping 
 
 ## Release 0: Run the Tests
 
-## Release 1: Write [pseudocode](../../../references/pseudocode.md) for each failing test
+## Release 1: Write [pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md) for each failing test
 
-## Release 2: Write an [initial solution](../../../references/initial_solution.md) to pass each test
+## Release 2: Write an [initial solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md) to pass each test
 
-## Release 3: [Refactor](../../../references/refactoring.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 4: [Reflect](../../../references/reflection.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 

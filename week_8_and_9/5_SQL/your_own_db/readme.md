@@ -26,10 +26,10 @@ Research connecting your tables to one another.
 ## Release 4: Enter Data
 Enter some data for one of the tables. Make at least 10 entries.
 
-## Release 5: [Reflect](../../../references/reflection.md) 
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) 
 Put your reflection in the [my_reflection](my_reflection.md) file.
 
-## Release 6: [Review](../../../references/review.md)
+## Release 6: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
 
 ## Resources

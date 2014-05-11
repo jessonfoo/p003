@@ -26,11 +26,11 @@ Write a [linear_search](http://en.wikipedia.org/wiki/Linear_search) method that 
 ## Release 3: Assert Statements
 Translate the driver test code into Assert statements.
 
-## Release 4: [Refactor](../../../references/refactoring.md)
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 5: [Reflect](../../../references/reflection.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
-## Release 6: [Review](../../../references/review.md)
+## Release 6: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
 ## Optimize your learning
 Write a [binary_search](http://en.wikipedia.org/wiki/Binary_search_algorithm) method that searches the student array for a student ssn and returns the position of that student if they are in the array. If the student is not in the array then the method should return -1.  You can write a iterative (ore recursive, if you are comfortable with that) version of binary_search. 

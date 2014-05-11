@@ -18,7 +18,7 @@ This is your curriculum for the last two weeks. You'll be required to guide your
 
 
 ## Submitting your work
-**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There will be a "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms.**
+You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There will be a "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms. **You need to submit your work each week.**
 
 ## Sync DBC's Changes
 ####It's time to sync changes from DevBootcamp's phase_0_unit_3 master repo.
@@ -41,4 +41,4 @@ When you make updates to the files (or add a file), you should commit your work 
 You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well. 
 
 
-## [Resources](../resources.md) 
+## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md) 

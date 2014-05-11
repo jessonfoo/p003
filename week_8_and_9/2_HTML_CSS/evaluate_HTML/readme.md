@@ -21,7 +21,7 @@ Luckily, the sublime editor can help you reformat the HTML and CSS.  Google it a
 ## Release 2: Answer [the questions](my_solution.md)
 Remember that other students will be reading your answers, so write for an audience!
 
-## Release 3: [Reflect](../../../references/reflection.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
 
 ## Resources

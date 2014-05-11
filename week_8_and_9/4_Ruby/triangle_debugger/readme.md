@@ -29,9 +29,9 @@ There are questions to answer for each bug on you [my_solution.rb](my_solution.r
 ## Release 3: Make the code pass
 Modify the code to make it pass the tests. After you've fixed the first three bugs, you'll need to dive a little deeper to fix the last bug to make it pass the the Socrates RSpec tests.
 
-## Release 4: [Refactor](../../../references/refactoring.md)
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 5: [Reflect](../../../references/reflection.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
 
 

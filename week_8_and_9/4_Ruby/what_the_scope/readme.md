@@ -24,6 +24,6 @@ For each variable, identify the scope. Include the scope of each variable as a c
 # 1. var_1 is a ........... variable which means ......
 ```
 
-## Release 3: Write [Driver Test Code](../../../references/driver_code.md) or Assert Statements
-## Release 4: [Reflect](../../../references/reflect.md)
+## Release 3: Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) or Assert Statements
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 

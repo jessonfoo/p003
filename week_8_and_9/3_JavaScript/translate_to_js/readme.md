@@ -12,15 +12,15 @@
 Find a ruby challenge you particularly enjoyed. Then solve it again using JavaScript. 
 
 ## Release 0: Write your Tests
-Write [Driver Test Code](../../../references/driver_code.md) in JS!
+Write [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md) in JS!
 
 
-## Release 1: Write [Pseudocode](../../../references/pseudocode.md)
+## Release 1: Write [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 
-## Release 2: Write your [initial solution](../../../references/initial_solution.md)
+## Release 2: Write your [initial solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 
-## Release 3: [Refactor](../../../references/refactoring.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 4: [Reflect](../../../references/reflection.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
-## Release 5: [Review](../../../references/review.md)
+## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)

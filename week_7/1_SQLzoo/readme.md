@@ -29,9 +29,9 @@ You will need to do some research as you go. The tutorial is more meant to get y
 ## Release 3: Save your Quiz Results
 When you are finished, access your quiz results by going to your profile page (link is in the upper right corner). Take a screenshot of the scores and results, rename it to `sqlzoo_quiz.jpg`, and saving it in the [imgs](../imgs) directory in this repository. THEN, add the image (inline using markdown) into your [my_quizzes.md](my_quizzes.md) file in this directory. 
 
-## Release 4: [Reflect](../../references/reflection.md) in the reflection section of your [my_quizzes.md](my_quizzes.md) file. 
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) in the reflection section of your [my_quizzes.md](my_quizzes.md) file. 
 
-## Release 5: [Review](../../references/review.md) 
+## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) 
 2 of your accountability group member's solutions. Make sure to leave them feedback as an issue on their repo! Make sure they have "issues" set up as features. If they don't help them set it up! 
 
 ## Optimize Your Learning: 

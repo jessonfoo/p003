@@ -28,9 +28,9 @@ Give yourself a little cheatsheet (in order) of commands you'll need to:
 - Fetch changes
 - Commit locally
 
-## Release 5: [Reflect](../../references/reflection.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
-## Release 6: [Review](../../references/review.md)
+## Release 6: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
 ## Resources
 - [Try Git](https://www.codeschool.com/courses/try-git)

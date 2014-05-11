@@ -14,7 +14,7 @@ Remember your grocery list GPS challenge? Now you will want to re-implement your
 You can keep it as a terminal program, OR you can look into creating an HTML version using pure JavaScript. It's up to you how complicated you want to make this. Try using [JSFiddle](http://jsfiddle.net/) to see all of your code interact. (Or you could create your own HTML, CSS, and JS files in this directory and run them in the browser. )
 
 ## Release 0: Write your User Stories
-## Release 1: [Pseudocode](../../../references/pseudocode.md)
-## Release 2: Write your [Initial Solution](../../../references/initial_solution.md)
-## Release 3: [Refactor](../../../references/refactoring.md)
-## Release 4: [Review](../../../references/review.md)
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
+## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
+## Release 4: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)

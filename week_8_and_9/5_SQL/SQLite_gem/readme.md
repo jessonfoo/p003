@@ -32,5 +32,5 @@ The old admin left some things unfinished, but she at least made some notes of t
 ## Release 5: Done already?  
 Well there's still two more interesting challenges to tackle.  Take a look at the comments and dive in.  You'll need to do some research, and you'll also have to practice some of the chops you picked up when practicing SQL statements.  Please make ample comments for your fellow students.  What resources can they refer to to understand your solution.
 
-## Release 5: [Reflect](../../references/reflection.md) in the reflection section of your [my_solution.md](my_solution.md) file. 
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) in the reflection section of your [my_solution.md](my_solution.md) file. 
 

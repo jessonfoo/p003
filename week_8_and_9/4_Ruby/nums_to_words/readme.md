@@ -25,16 +25,16 @@ Source: Chris Pine, [Learn to Program](https://pine.fm/LearnToProgram/)
 
 
 ## Release 0: Write your Tests
-Either write your own Assert Statements or [Driver Test Code](../../../references/driver_code.md)
+Either write your own Assert Statements or [Driver Test Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/driver_code.md)
 You definitely don't want to have to check all the possible cases. Make sure you are testing all of the irregular numbers. 
 
-## Release 1: Write [Pseudocode](../../../references/pseudocode.md)
+## Release 1: Write [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md)
 
-## Release 2: Write your [initial solution](../../../references/initial_solution.md)
+## Release 2: Write your [initial solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/initial_solution.md)
 
-## Release 3: [Refactor](../../../references/refactoring.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md)
 
-## Release 4: [Reflect](../../../references/reflection.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
 
-## Release 5: [Review](../../../references/review.md)
+## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md)
 
