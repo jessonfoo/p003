@@ -7,18 +7,19 @@
 
 
 ## Summary
-In this challenge, you will dive in to SQL - Structured Query Language for databases.  If you are new to SQL and databases, make sure to watch some of the videos listed on the [Week 7 Readme](../readme.md)
+In this challenge, you will dive in to SQL - Structured Query Language for databases.  If you are new to SQL and databases, make sure to watch some of the videos listed on the [Week 7 Readme](../readme.md).
 
 ## Release 0: Go to [SQLzoo](http://sqlzoo.net/wiki/Main_Page)
-Start the first set of exercises "SELECT basics".  Complete this set and complete the quiz that is linked to at the bottom. ** DO NOT CREATE AN ACCOUNT FIRST - There is an annoying bug in SQLZoo.**
+Start the first set of exercises "SELECT basics".  Complete this set and complete the quiz that is linked to at the bottom. **DO NOT CREATE AN ACCOUNT FIRST - There is an annoying bug in SQLZoo.**
 
 
-## Release 1: [Create an account](http://sqlzoo.net/w/index.php?title=Special:UserLogin&returnto=Main+Page&type=signup)
+## Release 1: OPTIONAL: [Create an account](http://sqlzoo.net/w/index.php?title=Special:UserLogin&returnto=Main+Page&type=signup)
 Now you are able to create an account so you can save your quiz results and return to SQLzoo whenever you want.  Choose "local" as your domain.  (NOTE: you need to complete some SQL questions before you can create an account.  
+
+Sometimes SQL Zoo is super buggy when it comes to making an account. If you are having problems, just take screenshots of your quizzes as you go. 
 
 ## Release 2: Complete the following sections along with their quizzes:  
 
-* 1 SELECT basics
 * 2 SELECT from World
 * 3 SELECT from Nobel (the quiz for this section is not mandatory)
 * 5 SUM and COUNT
