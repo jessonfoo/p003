@@ -43,5 +43,5 @@ Dive into the other sections!  Follow the tutorials and take the quizzes to deep
 If you're getting error messages trying to create a profile and you're not sure why, try this:
 1. Do a lesson and complete the quiz
 2. Submit the quiz
-3. Now create a new account. For "Your Domain" select "local"﻿
+3. Now create a new account. For "Your Domain" select "local".﻿
 
