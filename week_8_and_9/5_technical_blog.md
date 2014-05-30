@@ -8,7 +8,7 @@
 
 
 ## Release 0: Copy Your Blog Template
-In your [USERNAME].github.io repository, copy your blog tempate into a new HTML file named `week8_technical.html`.
+In the blog-posts directory in your [USERNAME]github.io repository, copy your blog tempate into a new HTML file named `week8_technical.html`.
 
 ## Release 1: Research
 
@@ -36,6 +36,6 @@ Link to your blog on the index of your site and push your changes.
 
 Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
-## Release 4: Share!
+## Release 4: Promote
 
 Share your blog on the google+ community under "Blog Posts!" Read others and see if you agree or disagree. Start a discussion on this topic.  Consider sharing your blog post on Reddit as well.

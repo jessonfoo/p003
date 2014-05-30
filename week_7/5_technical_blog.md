@@ -9,7 +9,9 @@
 
 
 ## Release 0: Copy Your Blog Template
-Copy your blog tempate into a new HTML file named `week7_technical.html`. 
+In the blog-posts directory in your [USERNAME]github.io repository, copy your blog tempate into a new HTML file named `week7_technical.html`. 
+
+If you don't have a blog-posts directory, create one, move all of your blog posts there, and modify the links on the index of your site. Make sure if someone navigates to your site, that they can see all of your blog posts!
 
 ## Release 1: Research
 Select a topic below to research. 
@@ -23,9 +25,10 @@ Select a topic below to research.
 ## Release 2: Blog!
 Write a blog post about what you learned. Teach your audience and future employer!
 
-## Release 3: Submission
+## Release 3: Publish
 Link to your blog on the index of your github.io site and sync your changes. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
 
+## Release 4: Promote
 Post a comment on their community post to start a discussion or give some feedback.  Consider sharing your blog post on Reddit as well.
