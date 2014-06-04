@@ -32,8 +32,6 @@ When you are finished, access your quiz results by going to your profile page (l
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md) in the reflection section of your [my_quizzes.md](my_quizzes.md) file. 
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/review.md) 
-2 of your accountability group member's solutions. Make sure to leave them feedback as an issue on their repo! Make sure they have "issues" set up as features. If they don't help them set it up! 
 
 ## Optimize Your Learning: 
 Dive into the other sections!  Follow the tutorials and take the quizzes to deepen your SQL skills.
