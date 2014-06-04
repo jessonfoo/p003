@@ -2,7 +2,7 @@
 
 Unit 3 only has one week of new material and two weeks of collaborative review. Each week will be released on Monday and will be due on the following Sunday at 11:59pm.
 
-### [Week 7: HTML/CSS](week_7)
+### [Week 7: SQL and Databases](week_7)
 ### [Week 8 and 9: REVIEW!](week_8_and_9)
 
 ## Unit Goals
