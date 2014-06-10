@@ -118,6 +118,6 @@ assert(
 
 assert(
   (gradebook.getAverage("Joseph") === 80),
-  "gradebook's getAverage should return 80 if passed 'Jospeh'.",
+  "gradebook's getAverage should return 80 if passed 'Joseph'.",
   "9. "
 )
