@@ -17,7 +17,7 @@ This is your curriculum for the last two weeks. You'll be required to guide your
 
 
 ## Submitting your work
-You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There will be a "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms. **You need to submit your work each week.**
+You need to submit your work on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There will be "Unit 3 Week 8 Submission" and "Unit 3 Week 9 Submission" forms. **You need to submit your work at the end of each week.**
 
 ## Sync DBC's Changes
 ####It's time to sync changes from DevBootcamp's phase_0_unit_3 master repo.
