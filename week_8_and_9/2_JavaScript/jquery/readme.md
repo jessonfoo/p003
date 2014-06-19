@@ -33,7 +33,7 @@ Now if you refresh the browser you should see the simple web page with a colored
 ### Release 1: Selecting Elements with jQuery
 jQuery allows you to select elements by their id, class, tag name or other css style selectors.  Use several different [jQuery Selectors](http://api.jquery.com/category/selectors/) to select the elements on this page.  Verify your selectors work by assigning them to a variable and then viewing this variable in the console.  
 
-For example, the add the code `var bodyElement = $('body')` to the `jquery_example.js` file and then in the Chrome DevTools Console type `bodyElement`.  This should show a jQuery object in the console.  
+For example, the add the code `bodyElement = $('body')` to the `jquery_example.js` file and then in the Chrome DevTools Console type `bodyElement`.  This should show a jQuery object in the console.
 
 ### Release 2: Modify Elements with jQuery
 The jQuery [css method ]( http://api.jquery.com/css/) allows you to modify a selected elements css.  Use this to change the following css attributes on the `<h1>` element:
