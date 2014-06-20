@@ -30,6 +30,6 @@ With your partner, review the code. Is it DRY? Are the names good?
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 Copy your code from stypi into the [our_solution.rb](our_solution.rb) file. Then complete a reflection in the designated section. 
 
-## Release 6: Sync your changes to Github!
+## Release 6: Push your changes to Github!
 
 ## Release 6: Submit [Feedback](http://socrates.devbootcamp.com/feedback/new).

@@ -26,9 +26,7 @@ Select a topic below to research.
 Write a blog post about what you learned. Teach your audience and future employer!
 
 ## Release 3: Publish
-Link to your blog on the index of your github.io site and sync your changes. 
+Link to your blog on the index of your github.io site and push your changes. 
 
 Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
 
-## Release 4: Promote
-Post a comment on their community post to start a discussion or give some feedback.  Consider sharing your blog post on Reddit as well.
