@@ -17,6 +17,10 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 8. [GPS 3.1](7-gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
 9. [BONUS: Using the SQLite Gem](8-SQLite-gem) 
 
+## Remember your expectations for the unit!
+- Pair at least once each week with a member of your accountability group.  *You need to pair **6** times this unit*
+- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) per week on Socrates. *You need to rate 20 pieces of feedback per unit.*
 
 ## Submitting your work
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 3 Week 7 Submission" form.**
@@ -39,11 +43,6 @@ You will want to run and modify all files from your local repository on your com
 
 When you make updates to the files (or add a file), you should commit your work the same way you did for your website through the app. Include a commit message that describes what you've changed.
 
-
-## Remember your Unit Goals!
-- Pair at least once this week with a member of your accountability group.  *You need to pair **4** times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (4 for peer-pairing, and 1 GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit.
 
 ## Resources
 - [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
