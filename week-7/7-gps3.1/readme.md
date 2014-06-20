@@ -14,20 +14,20 @@ In this challenge, you will create an electronic grocery list command-line appli
 ## Release 0: User Stories
 With your partner, talk about what you would like to do with your grocery list. Start each statement with "As a user, I want to ..." These are what we call "user stories." 
 
-## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/pseudocode.md)
+## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 What objects, classes, and methods will you need to do each of the things you identified in your user stories?
 
-## Release 2: Write [Driver Code](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/driver-code.md)
+## Release 2: Write [Driver Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
 Translate your pseudocode into driver code. 
 Write driver code at the bottom (to call the method on the object). 
 
-## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/initial-solution.md)
+## Release 3: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 Create your initial solution. 
 
-## Release 4: [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/refactoring.md) your solution
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) your solution
 With your partner, review the code. Is it DRY? Are the names good?
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 Copy your code from stypi into the [our_solution.rb](our_solution.rb) file. Then complete a reflection in the designated section. 
 
 ## Release 6: Sync your changes to Github!

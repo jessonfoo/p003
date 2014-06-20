@@ -1,6 +1,7 @@
-[Week 7 Home](../)
+[Week 8 Home](../../../)
 
-# U3.W7: BONUS Using the SQLite Gem
+# U3.W8-9: Using the SQLite Gem 
+**(Same challenge as Bonus in Week 7)**
 
 ## Learning Competencies
 - Create a graphical representation of a simple database

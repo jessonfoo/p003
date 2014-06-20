@@ -48,8 +48,8 @@ Based on the different schemas above, design your own one-to-one and many-to-man
 
 Display the screenshots in your [my_solution.md](my_solution.md) file and commit your changes.
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md) 
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) 
 in the reflection section of your [my_solution.md](my_solution.md) file. 
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/review.md)
+## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
 Look at (at least) 2 other solutions to Release 4: Design Your Own Schema. Based on their description, did they connect the tables appropriately? 

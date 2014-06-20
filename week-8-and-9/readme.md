@@ -23,7 +23,7 @@ You need to submit your work through on [apply.devbootcamp.com](http://apply.dev
 ####It's time to sync changes from DevBootcamp's phase_0_unit_3 master repo.
 You'll need to fetch changes into your `phase_0_unit_3` repository from DevBootcamp's master repo to get the new curriculum. You'll be syncing your local repo with the repo on github.com.
 
-Follow [these instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/fetching-changes.md)!
+Follow [these instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/fetching-changes.md)!
 Modify them for unit 3.
 
 You will want to run and modify all files from your local repository on your computer. Use the terminal to navigate to the various challenge directories and submit your solutions as directed. 
@@ -40,4 +40,4 @@ When you make updates to the files (or add a file), you should commit your work 
 You now know enough to fix broken links in your repo! If you run into a 404 error navigating through the directory online, go to the file where the error is, see what the link is. Is it to an internal or external file? If internal, do you see a file named something similarly in the repo? If so, you'll want to figure out why the link is broken and fix it. If it's to an external resource,  Definitely let us know if a link is broken so we can fix it, but take some time to research it as well. 
 
 
-## [Resources](https://github.com/Devbootcamp/phase_0_handbook/blob/master/resources.md) 
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) 

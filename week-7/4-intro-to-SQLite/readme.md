@@ -125,7 +125,7 @@ And don't forget to update the `updated_at` column.  It should be the current ti
 Use a select statement to see the database entries, they should include the correct spellings and updated nickname.  Nice work!
 
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding-references/reflection-guidelines.md) 
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) 
 ...in the reflection section of your [my_solution.md](my_solution.md) file. 
 
 

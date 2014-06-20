@@ -4,7 +4,7 @@ You've played with classes quite a bit at this point. Have you ever thought of s
 
 If you aren't familiar with databases, please take some time to watch the videos listed in the resources (below) before working through the challenges. 
 
-Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.com/Devbootcamp/phase_0_handbook/blob/master/intro-gps-signup.md) to sign up. 
+Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/intro-gps-signup.md) to sign up. 
 
 ## Challenges
 1. Install SQLite on your computer - Research how to do this and ask your cohort mates for help!
