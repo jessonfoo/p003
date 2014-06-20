@@ -18,7 +18,7 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 9. [BONUS: Using the SQLite Gem](8-SQLite-gem) 
 
 ## Remember your expectations for the unit!
-- Pair at least once each week with a member of your accountability group.  *You need to pair **6** times this unit*
+- Pair at least once each week with a member of your accountability group.  *You need to pair* **6** *times this unit*
 - Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) per week on Socrates. *You need to rate 20 pieces of feedback per unit.*
 
@@ -26,10 +26,10 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There should be a "Unit 3 Week 7 Submission" form.**
 
 This week you will be storing your reflections in the challenge files in this repository. 
-- Fork this (phase_0_unit_3) repository by clicking "Fork" at the top right of the page. 
+- Fork this (phase-0-unit-3) repository by clicking "Fork" at the top right of the page. 
 - Under settings (in the right navigation bar) check the box next to "issues" under "features." This will allow people
   to give you feedback.
-- Open your GitHub desktop app. Find the `phase_0_unit_3` repository and click "clone to computer." 
+- Open your GitHub desktop app. Find the `phase-0-unit-3` repository and click "clone to computer." 
 
 When you make updates to the files on your local repo, you should commit your work the same way you did for your other repos through the app. Include a commit message like "added pseudocode and initial solution for add it up."
 
