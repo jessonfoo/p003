@@ -6,8 +6,8 @@ Unit 3 only has one week of new material and two weeks of collaborative review. 
 ### [Week 8 and 9: REVIEW!](week-8-and-9)
 
 ## Unit Goals
-- [Peer-Pair program](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) at least 4 times with people in your accountability group. Read about [pairing](https://github.com/Devbootcamp/phase-0-handbook/blob/master/pairing-in-phase-0.md) before hand. 
-- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit at least 4 for peer sessions and 1 for [GPS 3.1](https://github.com/Devbootcamp/phase-0-handbook/blob/master/guided-pairing-sessions.md))
+- [Peer-Pair program](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) at least 6 times with people in your accountability group. Read about [pairing](https://github.com/Devbootcamp/phase-0-handbook/blob/master/pairing-in-phase-0.md) before hand. 
+- [Submit feedback](https://socrates.devbootcamp.com/feedback/new) for all pairing sessions. (You should submit at least 6 for peer sessions and 1 for [GPS 3.1](https://github.com/Devbootcamp/phase-0-handbook/blob/master/guided-pairing-sessions.md))
 - [Rate Feedback](https://socrates.devbootcamp.com/feedback) at least 20 pieces of other people's feedback. 
 
 #### How to navigate this repository
