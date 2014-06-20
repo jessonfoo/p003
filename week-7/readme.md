@@ -8,14 +8,14 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 
 ## Challenges
 1. Install SQLite on your computer - Research how to do this and ask your cohort mates for help!
-2. [SQLZoo for SQL Queries](1_SQLzoo)
-3. [Designing Schemas](2_designing_schemas) 
-4. [Modeling a One to Many Database - SOLO CHALLENGE](3_model_one_to_many_solo_challenge)
-5. [Intro to SQLite](4_intro_to_SQLite)
-6. [Technical Blog](5_technical_blog.md)
-7. [Cultural Blog](6_cultural_blog.md)
-8. [GPS 3.1](7_gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
-9. [BONUS: Using the SQLite Gem](8_SQLite_gem) 
+2. [SQLZoo for SQL Queries](1-SQLzoo)
+3. [Designing Schemas](2-designing-schemas) 
+4. [Modeling a One to Many Database - SOLO CHALLENGE](3-model-one-to-many-solo-challenge)
+5. [Intro to SQLite](4-intro-to-SQLite)
+6. [Technical Blog](5-technical-blog.md)
+7. [Cultural Blog](6-cultural-blog.md)
+8. [GPS 3.1](7-gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
+9. [BONUS: Using the SQLite Gem](8-SQLite-gem) 
 
 
 ## Submitting your work
