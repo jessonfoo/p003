@@ -16,11 +16,12 @@ end
 
 def print_longest_serving_reps(minimum_years)  #sorry guys, oracle needs me, i didn't finish this!
   puts "LONGEST SERVING REPRESENTATIVES"
-  puts $db.execute("SELECT name FROM congress_members WHERE years_in_congress > #{minimum_years}")
+  puts $db.execute("SELECT name, years_in_congress FROM congress_members WHERE years_in_congress > #{minimum_years}").to_a.map { |e| e.join(' - ')  }
 end
 
-def print_lowest_grade_level_speakers
+def print_lowest_grade_level_speakers(grade_level)
   puts "LOWEST GRADE LEVEL SPEAKERS (less than < 8th grade)"
+  puts $db.execute("select name, grade_current from congress_members where grade_current < #{grade_level}").to_a.map { |e| e.join(' - ')  }
 end
 
 def print_separator
@@ -28,8 +29,36 @@ def print_separator
   puts "------------------------------------------------------------------------------"
   puts 
 end
-
-
+def print_NJ_reps
+	print_separator
+	puts "New Jersey REPRESENTATIVES"
+	nj_reps = $db.execute("SELECT name FROM congress_members WHERE location = 'NJ'")
+	nj_reps.each { |rep| puts rep }
+end
+def print_ny_reps
+	print_separator
+	puts "New York REPRESENTATIVES"
+	ny_reps = $db.execute("SELECT name FROM congress_members WHERE location = 'NY'")
+	ny_reps.each { |rep| puts rep }
+end
+def print_me_reps
+	print_separator
+	puts "Maine REPRESENTATIVES"
+	me_reps = $db.execute("SELECT name FROM congress_members WHERE location = 'ME'")
+	me_reps.each { |rep| puts rep }
+end
+def print_fl_reps
+	print_separator
+	puts "Florida REPRESENTATIVES"
+	fl_reps = $db.execute("SELECT name FROM congress_members WHERE location = 'FL'")
+	fl_reps.each { |rep| puts rep }
+end
+def print_al_reps
+	print_separator
+	puts "Alaska REPRESENTATIVES"
+	al_reps = $db.execute("SELECT name FROM congress_members WHERE location = 'AL'")
+	al_reps.each { |rep| puts rep }
+end
 print_arizona_reps
 
 print_separator
@@ -39,12 +68,17 @@ print_longest_serving_reps(35)
 # output should look like:  Rep. C. W. Bill Young - 41 years
 
 print_separator
-print_lowest_grade_level_speakers 
+print_lowest_grade_level_speakers(8)
+
 # TODO - Need to be able to pass the grade level as an argument, look in schema for "grade_current" column
 
 # TODO - Make a method to print the following states representatives as well:
 # (New Jersey, New York, Maine, Florida, and Alaska)
-
+print_NJ_reps
+print_ny_reps
+print_me_reps
+print_fl_reps
+print_al_reps
 
 ##### BONUS #######
 # TODO (bonus) - Stop SQL injection attacks!  Statmaster learned that interpolation of variables in SQL statements leaves some security vulnerabilities.  Use the google to figure out how to protect from this type of attack.
@@ -66,4 +100,13 @@ print_lowest_grade_level_speakers
 # `$db.execute("SELECT name FROM congress_members WHERE years_in_congress 
 #   > #{minimum_years}")`.  Try to explain this as clearly as possible for 
 # your fellow students.  
+#
+# the variable $db holds the gem and path for sqlite3, and the path to congress_poll_results.db
+# the execute method takes an argument and relays it to them gem. the gem uses the sqlite3 command
+# as if we typed the sql into the terminal itself, and returns each item one at a time.
+# the `$db.execute("SELECT name FROM congress_members WHERE years_in_congress > #{minimum_years}")` line
+# is straight forward and to the point if you understand the sql. Basically, it chooses the item name from the table 
+# congress_members. The WHERE command runs sort of like an if statement, where if years_in_congress is
+# greater than the argument minimum years, it will return the selected item, which is the name of the congressman.
+#
 # If you're having trouble, find someone to pair on this explanation with you.
