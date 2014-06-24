@@ -5,19 +5,19 @@
 
 
 ## Release 0: Student Roster Schema
-<!-- display your image inline here -->
+<img src="../imgs/challenge_2/students.png">
 
 
 ## Release 1: One to Many Schema
-<!-- display your image inline here -->
+<img src="../imgs/challenge_2/user_orders.png">
 
 
 ## Release 2: One to One Schema
-<!-- display your image inline here -->
+<img src="../imgs/challenge_2/faceboook.png">
 
 
 ## Release 3: Many to Many Schema
-<!-- display your image inline here -->
+<img src="../imgs/challenge_2/author_book_pub.png">
 
 
 ## Release 4: Design your own Schema
