@@ -1,7 +1,7 @@
 # U3.W7: Designing Schemas
 
 
-#### I worked on this challenge [by myself, with: ]
+#### I worked on this challenge by myself.
 
 
 ## Release 0: Student Roster Schema
@@ -22,8 +22,11 @@
 
 ## Release 4: Design your own Schema
 Description of what you're modeling: 
-n
-<!-- display your one-to-one image inline here -->
-<!-- display your many-to-many image inline here -->
+I will be modeling an outfit
+-an outfit consists of : top wear, bottom, shoes
+-each garment has a: brand, style
+-each brand has a: name, style, logo
+<img src="../imgs/challenge_2/costume.png">
 
 ## Release 5: Reflection
+This section was not so much difficult, but rather tedious. I spent most of my time thinking of what I could model for my own schema. I finally decided pretty much anything has multiple attributes, and no schema can cover every detail so just choose something. Using the schema editor was intimidating at first, but after a while became rather straightforward.
