@@ -9,11 +9,11 @@
 
 
 ## Release 1: One to Many Schema
-<img src="../imgs/challenge_2/user_orders.png">
+<img src="../imgs/challenge_2/users_orders.png">
 
 
 ## Release 2: One to One Schema
-<img src="../imgs/challenge_2/faceboook.png">
+<img src="../imgs/challenge_2/facebook.png">
 
 
 ## Release 3: Many to Many Schema
