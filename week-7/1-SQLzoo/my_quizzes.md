@@ -7,10 +7,10 @@
 ### My Quiz Results:
 <!-- Include the link to your image (saved in the imgs folder) to display it inline. -->
 <img src="../imgs/Challenge_1_Quizzes/Select_Basics">
-<img src="https://github.com/jessonfoo/phase-0-unit-3/blob/master/week-7/imgs/Challenge%201%20Quizzes/SELECT_FROM_world.png">
-<img src="https://github.com/jessonfoo/phase-0-unit-3/blob/master/week-7/imgs/Challenge%201%20Quizzes/NOBEL_quiz.png">
-<img src="https://github.com/jessonfoo/phase-0-unit-3/blob/master/week-7/imgs/Challenge%201%20Quizzes/Sum_and_Count_Quizz.png">
-<img src="https://github.com/jessonfoo/phase-0-unit-3/blob/master/week-7/imgs/Challenge%201%20Quizzes/Join_quiz.png">
+<img src="../imgs/Challenge_1_Quizzes/SELECT_FROM_world.png">
+<img src="../imgs/Challenge_1_Quizzes/NOBEL_quiz.png">
+<img src="../imgs/Challenge_1_Quizzes/Sum_and_Count_Quizz.png">
+<img src="../imgs/Challenge_1_Quizzes/Join_quiz.png">
 
 
 
