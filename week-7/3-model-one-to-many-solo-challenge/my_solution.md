@@ -24,7 +24,7 @@ The relationship between `users` and `tweets` is:
 	The user's relationship to tweets is simple, emotional connection. The useraccount typically falls under one of 3 categories, corporation, celebrity, or mainstream user. Every tweet is for the sole purpose of publicity, but is composed of mostly text or an image. Each user type's reason to tweet is usually either news, or publicity. Everything is brought together at the emotional level. Each tweet has the potential to cause and illicit an emotional response. 
 
 ## Release 3: Schema Design
-<img src="../imgs/twitter.png">
+<img src="../imgs/Twitter.png">
 
 ## Release 4: SQL Statements
 Tweets with hashtag 'Belieber'
