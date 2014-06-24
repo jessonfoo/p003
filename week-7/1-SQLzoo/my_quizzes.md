@@ -6,7 +6,7 @@
 
 ### My Quiz Results:
 <!-- Include the link to your image (saved in the imgs folder) to display it inline. -->
-<img src="../imgs/Challenge_1_Quizzes/Select_Basics">
+<img src="../imgs/Challenge_1_Quizzes/Select_Basics.png">
 <img src="../imgs/Challenge_1_Quizzes/SELECT_FROM_world.png">
 <img src="../imgs/Challenge_1_Quizzes/NOBEL_quiz.png">
 <img src="../imgs/Challenge_1_Quizzes/Sum_and_Count_Quizz.png">
