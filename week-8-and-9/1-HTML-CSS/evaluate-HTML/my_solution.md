@@ -24,6 +24,7 @@ Did you like the way they used HTML tags?  Please use examples with your argumen
  I thought that the way they used html tags was a little bit confusing because everything was encompassed using the tr tag. 
  it felt like it was overused. for example from lines 67 to line 862 was all enclosed inside of a single tr tag.
  ```
+ 
  ```
          <tr>
           <td>
