@@ -2,9 +2,23 @@
  
 1) How does this website follow HTML Best Practices? Are there any places where 
 it does not?  Provide examples of the "bad" code.
+
+for the most part this website follows html best practices. However there are some areas that include
+some bad practices. An example of bad practices include:
+-use of inline styling
+-not using h1-h6 headers
+e.g
+```
+<table border="0" cellpadding="0" cellspacing="0" width="85%" bgcolor="#f6f6ef">
+```
+
+
  
 2) What do you think of the HTML? Did the writers use IDs and Classes properly? 
 
+I think that the writers used IDS and Classes very well. Considering the simplicity of the website,
+there wasn't much need for too many different Ids and Classes, yet their css was still very
+all encompassing.
 Did you like the way they used HTML tags?  Please use examples with your arguments.
  
 3) How did the authors handle formatting? Did they include it in the HTML or 
