@@ -7,7 +7,10 @@ for the most part this website follows html best practices. However there are so
 some bad practices. An example of bad practices include:
 -use of inline styling
 ```
+
+```
 <table border="0" cellpadding="0" cellspacing="0" width="85%" bgcolor="#f6f6ef">
+```
 ```
 -not using h1-h6 headers
 
@@ -24,7 +27,7 @@ Did you like the way they used HTML tags?  Please use examples with your argumen
  I thought that the way they used html tags was a little bit confusing because everything was encompassed using the tr tag. 
  it felt like it was overused. for example from lines 67 to line 862 was all enclosed inside of a single tr tag.
  ```
- 
+
  ```
          <tr>
           <td>
