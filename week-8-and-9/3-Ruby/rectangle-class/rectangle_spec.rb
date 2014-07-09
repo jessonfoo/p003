@@ -6,7 +6,7 @@ describe Rectangle do
 
   describe '#area' do
     it "is defined" do
-      Rectangle.method_defined?(:area).should be_true
+      Rectangle.method_defined?(:area).should be_truthy
     end
 
     it "returns the correct area of a rectangle" do
@@ -20,7 +20,7 @@ describe Rectangle do
 
   describe '#perimeter' do
     it "is defined" do
-      Rectangle.method_defined?(:perimeter).should be_true
+      Rectangle.method_defined?(:perimeter).should be_truthy
     end
 
     it "returns the correct perimeter of a rectangle" do
@@ -34,7 +34,7 @@ describe Rectangle do
 
   describe '#diagonal' do
     it "is defined" do
-      Rectangle.method_defined?(:diagonal).should be_true
+      Rectangle.method_defined?(:diagonal).should be_truthy
     end
 
     it "returns the correct diagonal of a rectangle" do
@@ -48,15 +48,15 @@ describe Rectangle do
 
   describe '#square?' do
     it "is defined" do
-      Rectangle.method_defined?(:square?).should be_true
+      Rectangle.method_defined?(:square?).should be_truthy
     end
 
     it "returns false for a rectangle" do
-      rectangle.square?.should be_false
+      rectangle.square?.should be_falsy
     end
 
     it "returns true for a square" do
-      square.square?.should be_true
+      square.square?.should be_truthy
     end
   end
 end

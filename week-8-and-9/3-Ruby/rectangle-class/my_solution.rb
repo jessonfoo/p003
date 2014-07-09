@@ -9,11 +9,25 @@
 
 # 3. Initial Solution
 class Rectangle
-  attr_accessor :width, :height
+  attr_accessor :width, :height, :area
 
   def initialize(width, height)
     @width  = width
     @height = height
+  end
+
+  def area
+  	@area = @width*@height
+  	@area
+  end
+  def perimeter
+  	@perimeter = 2*(@width+@height)
+  end
+  def diagonal
+  	Math.hypot(@width,@height)
+  end
+  def square?
+  	return true if @width == @height
   end
 
   def ==(other)
