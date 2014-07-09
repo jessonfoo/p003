@@ -51,10 +51,10 @@ jQuery has an `.on( )` method to register event handlers.  Let's use this to cha
 2. Add a `mouseEnter` event to the image so that the image is switched to your cohort mascot when you move the mouse over it. 
 
 ```
-  $('img').on('mouseover', function(e){
-     e.preventDefault()
-    $(this).attr('src', 'YOUR IMAGE URL')
-  })
+$('img').on('mouseover', function(e){
+e.preventDefault()
+$(this).attr('src', 'YOUR IMAGE URL')
+})
 ```  
 
 You may notice that this effect doesn't reload the original image when your mouse leaves the element.  Apply a [jQuery Event](http://api.jquery.com/category/events/) to show the original `dbc_logo.jpg`

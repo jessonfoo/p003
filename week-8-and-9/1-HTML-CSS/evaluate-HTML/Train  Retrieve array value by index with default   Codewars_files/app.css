@@ -1,0 +1,50 @@
+/*
+
+Gray = #B7B7B7
+Green = #7C9A44
+Red = #C05C48
+
+*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: transparent;
+    padding: 0;
+    color: #EAEAEA;
+    font-size: 14px;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", Arial;
+}
+
+.inverted-theme { color: #111; }
+
+body {padding: 5px;}
+
+h1 {font-size: 18px;}
+h2, h3, h4, h5, h6 {font-size: 15px; font-weight: normal;color: #B7B7B7;margin: 6px 0;}
+h2 {font-size: 17px;}
+
+.inverted-theme h2, .inverted-theme h3, .inverted-theme h4, .inverted-theme h5, .inverted-theme h6 { color: #444; }
+
+
+div.console-describe {margin-bottom: 30px;}
+div.console-it { margin-left: 15px; margin-bottom: 15px;}
+
+div.console-passed, div.console-failed, div.console-missed {margin-bottom: 5px; font-weight: bold; white-space: pre;}
+div.console-passed {color: #7C9A44;}
+div.console-failed {color: #C05C48;}
+div.console-missed {color: #B7B7B7;}
+.inverted-theme div.console-missed { color: #444; }
+
+div.console-describe div.console-passed,
+div.console-describe div.console-failed,
+div.console-describe div.console-missed {margin-left: 15px; }
+
+div.console-info {background-color: rgba(255,255,255,0.1); padding: 5px;}
+
+div.alert-box {padding: 6px 7px 7px; background-color: #C05C48;color: #fff;text-shadow: 0 -1px rgba(0, 0, 0, 0.3);line-height: 18px;font-size: 15px;}
+

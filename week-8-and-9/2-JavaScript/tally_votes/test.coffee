@@ -1,8 +1,3 @@
-// U3.W8-9: Gradebook from Names and Scores
-
-// I worked on this challenge [by myself, with:]
-
-// These are the votes cast by each student. Do not alter these objects here.
 var votes = {
   "Alex": { president: "Bob", vicePresident: "Devin", secretary: "Gail", treasurer: "Kerry" },
   "Bob": { president: "Mary", vicePresident: "Hermann", secretary: "Fred", treasurer: "Ivy" },
@@ -43,7 +38,7 @@ var voteCount = {
 /* The name of each student receiving a vote for an office should become a property 
 of the respective office in voteCount.  After Alex's votes have been tallied, 
 voteCount would be ...
-
+	
   var voteCount = {
     president: { Bob: 1 },
     vicePresident: { Devin: 1 },
@@ -62,91 +57,3 @@ var officers = {
   secretary: undefined,
   treasurer: undefined
 }
-
-// Pseudocode
-
-
-// __________________________________________
-// Initial Solution
-
-
-
-
-
-
-// __________________________________________
-// Refactored Solution
-
-
-
-
-
-
-// __________________________________________
-// Reflection
-
-
-
-
-
-
-// __________________________________________
-// Driver Code:  Do not alter code below this line.
-
-
-// function assert(test, message, test_number) {
-//   if (!test) {
-//     console.log(test_number + "false");
-//     throw "ERROR: " + message;
-//   }
-//   console.log(test_number + "true");
-//   return true;
-// }
-
-// assert(
-//   (voteCount.president["Bob"] === 3),
-//   "Bob should receive three votes for President.",
-//   "1. "
-// )
-
-// assert(
-//   (voteCount.vicePresident["Bob"] === 2),
-//   "Bob should receive two votes for Vice President.",
-//   "2. "
-// )
-
-// assert(
-//   (voteCount.secretary["Bob"] === 2),
-//   "Bob should receive two votes for Secretary.",
-//   "3. "
-// )
-
-// assert(
-//   (voteCount.treasurer["Bob"] === 4),
-//   "Bob should receive four votes for Treasurer.",
-//   "4. "
-// )
-
-// assert(
-//   (officers.president === "Louise"),
-//   "Louise should be elected President.",
-//   "5. "
-// )
-
-// assert(
-//   (officers.vicePresident === "Hermann"),
-//   "Hermann should be elected Vice President.",
-//   "6. "
-// )
-
-// assert(
-//   (officers.secretary === "Fred"),
-//   "Fred should be elected Secretary.",
-//   "7. "
-// )
-
-// assert(
-//   (officers.treasurer === "Ivy"),
-//   "Ivy should be elected Treasurer.",
-//   "8. "
-// )

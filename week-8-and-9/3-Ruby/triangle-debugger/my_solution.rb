@@ -92,7 +92,7 @@ p valid_triangle?(0, 0, 0) == false
 p valid_triangle?(1, 1, 0.01) == true 
 
 
-
-
-
 # 5. Reflection 
+# this challenge was a little bit confusing because the rspec was off like a few other of the ruby challenges. I found that
+# correcting the indentation made it much more readable, thus making it easier to refactor. I also didn't encounter a third bug
+# unless the third bug was referring to the unsetup else statement originally on line 27.
