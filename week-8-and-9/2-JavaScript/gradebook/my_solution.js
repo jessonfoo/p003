@@ -7,7 +7,7 @@ variables match (i.e., 'Joseph' is the first element in students; his scores are
 
 Do not alter the students and scores code.
 
-I worked on this challenge [by myself, with:]
+I worked on this challenge with yohan yi
 
 */
 
@@ -27,6 +27,31 @@ var scores = [ [80, 70, 70, 100],
 // Write your code below.
 
 
+// function average(arr) { 
+//         sum = 0, 
+//         len = arr.length; 
+//     for (i = 0; i < len; i++) { 
+//         sum += arr[i]; 
+//     } 
+//     return sum / len;
+// }
+
+// var gradebook = {
+//   Joseph: {testScores: scores[0]},
+//   Susan: {testScores: scores[1]},
+//   William: {testScores: scores[2]},
+//   Elizabeth: {testScores: scores[3]},
+// }
+
+// gradebook.addScore = function(name,score){
+//     return gradebook[name].testScores.push(score)
+// }
+
+// gradebook.getAverage = function(name) {
+//     return average(gradebook[name].testScores)
+// }    
+  
+
 
 
 
@@ -34,9 +59,20 @@ var scores = [ [80, 70, 70, 100],
 // __________________________________________
 // Refactored Solution
 
+function average(arr) { 
+  sum = 0 
+  for (var i = 0; i < arr.length; i++) {sum += arr[i]} 
+  return sum / arr.length;
+}
 
-
-
+var gradebook = {
+  Joseph: {testScores: scores[0]},
+  Susan: {testScores: scores[1]},
+  William: {testScores: scores[2]},
+  Elizabeth: {testScores: scores[3]},
+  addScore: function (name,score){return gradebook[name].testScores.push(score)},
+  getAverage: function (name){return average(gradebook[name].testScores)}
+}
 
 
 
@@ -44,7 +80,9 @@ var scores = [ [80, 70, 70, 100],
 // __________________________________________
 // Reflect
 
-
+// I often find myself forgetting the syntax of a language after not using it for a while. I felt this challenge was
+// a great refresher for javascript. It was very useful for reminding me how to set hashes in JS. What was the most difficult
+// for me was remembering how JS uses parentheses.
 
 
 
