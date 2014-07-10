@@ -1,4 +1,4 @@
-def assert(num)
+def assert(num, message)
   raise "Assertion test number #{num} failed" unless yield
-  puts "Assertion test #{num} passed"
+  puts "#{num}. passed"
 end
