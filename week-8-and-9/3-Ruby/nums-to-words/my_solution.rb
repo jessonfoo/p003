@@ -53,7 +53,7 @@ def n_to_s(int)
 			"seventy","eighty","ninety"]
 
 
-	thousands = (int/1000)
+	thousands = (int/10000)
 	hundreds = ((int%1000) / 100)
 	tens = ((int % 100) / 10)
 	ones = int % 10

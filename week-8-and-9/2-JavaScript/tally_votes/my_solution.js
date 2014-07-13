@@ -65,27 +65,109 @@ var officers = {
 
 // Pseudocode
 
-
-// __________________________________________
-// Initial Solution
+// follow the psudo code from week 7
 
 
 
+//Initial Solution
+
+// for (var voter in votes) {
+//   var voterObj = votes[voter];
+//   var pres = voterObj.president;
+//   var vicePres = voterObj.vicePresident;
+//   var secretary = voterObj.secretary;
+//   var treas = voterObj.treasurer;
+
+//   if (voteCount.president[pres] == null) {
+//     voteCount.president[pres] = 1;
+//   } else {
+//     voteCount.president[pres] += 1;
+//   }
+
+//   if (voteCount.vicePresident[vicePres] == null) {
+//     voteCount.vicePresident[vicePres] = 1;
+//   } else {
+//     voteCount.vicePresident[vicePres] += 1;
+//   }
+
+//   if (voteCount.secretary[secretary] == null) {
+//     voteCount.secretary[secretary] = 1;
+//   } else {
+//     voteCount.secretary[secretary] += 1;
+//   }
+
+//   if (voteCount.treasurer[treas] == null) {
+//     voteCount.treasurer[treas] = 1;
+//   } else {
+//     voteCount.treasurer[treas] += 1;
+//   }
+// }
+
+// for (var position in voteCount) {
+//   var max_votes = 0;
+//   for (var candidate in voteCount[position]) {
 
 
+//     if (voteCount[position][candidate] > max_votes) {
+//       officers[position] = candidate;
+//       max_votes = voteCount[position][candidate];
+//     }
+//   }
+// }
+//
 
 // __________________________________________
 // Refactored Solution
+for (var voter in votes) {
+  var voterObj = votes[voter];
+  var pres = voterObj.president;
+  var vicePres = voterObj.vicePresident;
+  var secretary = voterObj.secretary;
+  var treas = voterObj.treasurer;
 
+  if (voteCount.president[pres] == null) {
+    voteCount.president[pres] = 1;
+  } else {
+    voteCount.president[pres] += 1;
+  }
 
+  if (voteCount.vicePresident[vicePres] == null) {
+    voteCount.vicePresident[vicePres] = 1;
+  } else {
+    voteCount.vicePresident[vicePres] += 1;
+  }
 
+  if (voteCount.secretary[secretary] == null) {
+    voteCount.secretary[secretary] = 1;
+  } else {
+    voteCount.secretary[secretary] += 1;
+  }
 
+  if (voteCount.treasurer[treas] == null) {
+    voteCount.treasurer[treas] = 1;
+  } else {
+    voteCount.treasurer[treas] += 1;
+  }
+}
 
+for (var position in voteCount) {
+  var maxVotes = 0;
+  for (var candidate in voteCount[position]) {
+ 
+
+    if (voteCount[position][candidate] > maxVotes) {
+      officers[position] = candidate;
+      maxVotes = voteCount[position][candidate];
+    }
+  }
+}
 
 // __________________________________________
-// Reflection
+// // Reflection
 
-
+// this challenge was more of the more tedious ones. again it was was just converting ruby to javascript, but 
+// the difference in syntax is very confusing. I hope to get to no both by heart by the end of the program.
+// over all this challenge was fairly straight forward, ad there wasnt much to refactor.
 
 
 
